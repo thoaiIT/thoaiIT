@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thoai</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thoai!;" />
+</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thoaiit" alt="thoaiit" /></a> </p>
